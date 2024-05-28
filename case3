@@ -1,0 +1,5 @@
+to change the branch name while create a file from desktopand connect to git have to use
+ git push origin master command
+ now the branch name is master
+ now change the branch name 
+ "git branch -M main"
