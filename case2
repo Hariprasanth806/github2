@@ -1,0 +1,4 @@
+directly we cannot push the folder to git
+ first of all have to create the new repository in git
+ the command is
+ git remote add origin "link of new repo"
